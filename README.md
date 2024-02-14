@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rojay143-cj
+- 👋 Hi, how are you? Welcome to my profile 
 - 👀 I’m interested in Developing Web & Software Applications
 - 🌱 I’m currently learning Graphic Design
 - 💞️ I'm eager to collaborate on demystifying IT expertise, simplifying the complex, and fostering understanding through teamwork.
