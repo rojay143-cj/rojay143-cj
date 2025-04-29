@@ -1,8 +1,8 @@
+- ⚡ Hi, I'm Chris, I'm passionate about IT and love diving into complex tech challenges to find innovative solutions.
 - 👋 Hi, how are you? Welcome to my profile.
 - 👀 I’m interested with Web & Software Development.
 - 🌱 I’m Good at UI/UX and Project Management.
 - 💞️ I'm eager to collaborate on demystifying IT expertise, simplifying the complex, and fostering understanding through teamwork.
 - 📫 Hire me for IT expertise that delivers solutions, innovation, and collaboration.
 - 😄 Did you know that I love coding while eating?
-- ⚡ Hi, I'm Christian, I'm passionate about IT and love diving into complex tech challenges to find innovative solutions.
 - Problem solving is my Forte;
